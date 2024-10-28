@@ -1,2 +1,3 @@
 Computer Laboratory I
-GitHub Desktop training
+
+GitHub Desktop training.
